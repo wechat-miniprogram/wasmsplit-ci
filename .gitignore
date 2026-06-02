@@ -1,0 +1,13 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+**/.DS_Store
+.DS_Store
+minigame-codesplit/
+wasm-code-split/
+wasm-code-split*/
+.publish-repo/
+src/util/wasm-split-v*.ts
+template/wasm-split-v*-es5.js
